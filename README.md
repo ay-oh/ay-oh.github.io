@@ -18,7 +18,8 @@
 예를 들어, ay-oh라는 username을 가지고 있으면 <u>**ay-oh.github.io**</u>로 저장소 이름을 설정합니다.
 
 ### 2. `html` 파일 원격 저장소로 업로드
-이제 포트폴리오의 메인 페이지가 될 `index.html`을 만든 원격 저장소에 올립니다(`git add` -> `git commit` -> `git push`).
+이제 포트폴리오의 메인 페이지가 될 `index.html`을 만든 원격 저장소에 올립니다.  
+(`git add` -> `git commit` -> `git push`)
 
 ### 3. 원격 저장소 설정 변경
 GitHub는 내가 올린 `html` 파일로 웹 사이트를 운영할 수 있게 컴퓨터와 웹 서버를 무료로 제공합니다.  
